@@ -1,0 +1,8 @@
+.Joke {
+    width: 800px;
+    background-color: black;
+    color: white;
+    border: solid 2px whitesmoke;
+    font-size: 20px;
+    padding: 8px;
+}
