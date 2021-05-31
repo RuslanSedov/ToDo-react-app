@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RuslanSedov/ToDo-react-app/static/css/main.ea8c160d.chunk.css",
-    "main.js": "/RuslanSedov/ToDo-react-app/static/js/main.57aaf58e.chunk.js",
-    "main.js.map": "/RuslanSedov/ToDo-react-app/static/js/main.57aaf58e.chunk.js.map",
-    "runtime-main.js": "/RuslanSedov/ToDo-react-app/static/js/runtime-main.38bcc152.js",
-    "runtime-main.js.map": "/RuslanSedov/ToDo-react-app/static/js/runtime-main.38bcc152.js.map",
-    "static/js/2.491ec6b8.chunk.js": "/RuslanSedov/ToDo-react-app/static/js/2.491ec6b8.chunk.js",
-    "static/js/2.491ec6b8.chunk.js.map": "/RuslanSedov/ToDo-react-app/static/js/2.491ec6b8.chunk.js.map",
-    "index.html": "/RuslanSedov/ToDo-react-app/index.html",
-    "static/css/main.ea8c160d.chunk.css.map": "/RuslanSedov/ToDo-react-app/static/css/main.ea8c160d.chunk.css.map",
-    "static/js/2.491ec6b8.chunk.js.LICENSE.txt": "/RuslanSedov/ToDo-react-app/static/js/2.491ec6b8.chunk.js.LICENSE.txt"
+    "main.css": "/ToDo-react-app/static/css/main.ea8c160d.chunk.css",
+    "main.js": "/ToDo-react-app/static/js/main.57aaf58e.chunk.js",
+    "main.js.map": "/ToDo-react-app/static/js/main.57aaf58e.chunk.js.map",
+    "runtime-main.js": "/ToDo-react-app/static/js/runtime-main.917883da.js",
+    "runtime-main.js.map": "/ToDo-react-app/static/js/runtime-main.917883da.js.map",
+    "static/js/2.491ec6b8.chunk.js": "/ToDo-react-app/static/js/2.491ec6b8.chunk.js",
+    "static/js/2.491ec6b8.chunk.js.map": "/ToDo-react-app/static/js/2.491ec6b8.chunk.js.map",
+    "index.html": "/ToDo-react-app/index.html",
+    "static/css/main.ea8c160d.chunk.css.map": "/ToDo-react-app/static/css/main.ea8c160d.chunk.css.map",
+    "static/js/2.491ec6b8.chunk.js.LICENSE.txt": "/ToDo-react-app/static/js/2.491ec6b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.38bcc152.js",
+    "static/js/runtime-main.917883da.js",
     "static/js/2.491ec6b8.chunk.js",
     "static/css/main.ea8c160d.chunk.css",
     "static/js/main.57aaf58e.chunk.js"
